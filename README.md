@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Lin <img height="40" src="https://i.pinimg.com/originals/f0/e0/42/f0e042b8531210f37b491872e8bf532c.gif"></h1>
 
 
-<img align="right" width=300px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTV1enUyczFjeWU2NHFnY3p3NDdvZTJ0dzczMjhnMzBjZThha3B4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41m6XWcURxUcKLWE/giphy.gif" />
+<img align="right" width=400px alt="Unicorn" src="https://deno.com/images/homepage/lofi-hero-fg.webp?__frsh_c=06678ea56c6377379d86ccc56913cc42fc548875" />
 
 
 <sub><sub>
