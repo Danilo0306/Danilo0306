@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Lin <img height="40" src="https://i.pinimg.com/originals/f0/e0/42/f0e042b8531210f37b491872e8bf532c.gif"></h1>
+<h1 align="center">Hola 👋, soy Lin <img height="40"></h1>
 
 
 <img align="right" width=400px alt="Unicorn" src="https://deno.com/images/homepage/lofi-hero-fg.webp?__frsh_c=06678ea56c6377379d86ccc56913cc42fc548875" />
