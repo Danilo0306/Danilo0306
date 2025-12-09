@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Lin <img height="40"></h1>
 
 
-<img align="right" width=400px alt="Unicorn" src="https://deno.com/images/homepage/lofi-hero-fg.webp?__frsh_c=06678ea56c6377379d86ccc56913cc42fc548875" />
+<img align="right" width=280px alt="Unicorn" src="https://github.com/user-attachments/assets/24e653a1-83d8-45b9-848e-4f9ee9518d85" />
 
 
 <sub><sub>
@@ -80,6 +80,6 @@ Actualmente me encuentro profundizando en:
 ## Estadísticas
 <div align="center" width="100">
     <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=Danilo0306&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&background=FFFFFF&currStreakNum=71A5FD&currStreakLabel=71A5FD&dates=61D9E1"
-      alt="Lin GitHub">
+      src="https://github-readme-streak-stats.herokuapp.com?user=Danilo0306&theme=black-ice&hide_border=true"
+      alt="Danilo GitHub">
 </div>
