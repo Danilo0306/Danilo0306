@@ -9,7 +9,7 @@
 </sub></sub>
 &nbsp;***Sobre mí***
 
-¡Hola! Soy Lin Dev, Ingeniero de sistemas e informática con una gran pasión por la tecnología, la innovación y el aprendizaje constante. Me motiva construir soluciones que aporten valor, optimicen procesos y potencien la eficiencia dentro de los entornos digitales.
+¡Hola! Soy Linn.codes, Ingeniero de sistemas e informática con una gran pasión por la tecnología, la innovación y el aprendizaje constante. Me motiva construir soluciones que aporten valor, optimicen procesos y potencien la eficiencia dentro de los entornos digitales.
 
 Tengo experiencia en desarrollo de software, bases de datos, ciberseguridad, y en la gestión y mejora de sistemas. Me caracterizo por mi capacidad para resolver problemas, aprender con rapidez y adaptarme a nuevos retos tecnológicos.
 Me entusiasma desarrollar proyectos que sean productivos, creativos y funcionales.
