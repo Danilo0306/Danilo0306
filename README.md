@@ -71,7 +71,7 @@ Actualmente me encuentro profundizando en:
 </span>
 
 ## Social
-<a href= "https://www.instagram.com/ldnlo.0/">
+<a href= "https://www.instagram.com/linn.codes/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   
 <a href= "https://www.linkedin.com/in/lindbergh-danilo-santa-cruz-ramos-857436321/">
